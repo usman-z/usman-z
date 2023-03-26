@@ -1,7 +1,4 @@
-👋 Hi, I’m Usman Zia and I am an Aspiring Software Engineer.
-I am an undergraduate junior Computer Science student!
-
-<!---
-usman-z/usman-z is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# :wave: Hi, I am Usman Zia!  
+### :school: I am an undergraduate Computer Science student at the University of North Carolina at Greensboro.  
+### :desktop_computer: I am an Aspiring Software Engineer.
+### :envelope_with_arrow: You can reach me at u_zia@uncg.edu 
